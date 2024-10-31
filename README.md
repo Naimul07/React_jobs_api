@@ -31,28 +31,6 @@ The Job Management API is a Laravel-based backend solution that enables employer
  **Eloquent ORM:** Used for database interactions and managing data relationships.
  **MySQL:** The relational database management system for storing job listings and user data.
 
-## Screenshots
-HomePage
-
-
-![HomePage](https://github.com/Naimul07/Project_picture/blob/main/React%20Jobs.jpg?raw=true)
-
-HomePage 2nd part
-
-![HomePage](https://github.com/Naimul07/Project_picture/blob/main/React%20Job2.jpg?raw=true)
-
-Browse jobs
-
-![Browse jobs](https://github.com/Naimul07/Project_picture/blob/main/Browse%20Jobs.jpg?raw=true)
-
-Single Jobs
-
-![Single Jobs](https://github.com/Naimul07/Project_picture/blob/main/Single%20Jobs.jpg?raw=true) 
-
-Add Jobs
-
-![Add jobs}](https://github.com/Naimul07/Project_picture/blob/main/Add%20jobs.jpg?raw=true)
-
 
 
 ## Run Locally
