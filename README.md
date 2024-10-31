@@ -27,8 +27,11 @@ The Job Management API is a Laravel-based backend solution that enables employer
 ## Tech Stack
 
  **Laravel:** The backend framework used for building the RESTful API.
+
  **Sanctum:** For implementing secure user authentication via API tokens.
+
  **Eloquent ORM:** Used for database interactions and managing data relationships.
+ 
  **MySQL:** The relational database management system for storing job listings and user data.
 
 
